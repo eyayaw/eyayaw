@@ -2,7 +2,7 @@
 - 👀 I’m interested in R and Python.
 - 🌱 I’m currently learning webscraping with Python.
 - 💞️ I’m looking to collaborate on documenting Amhara genocide in Ethiopia. 
-- 📫 How to reach me eyayaw@tutanota.com
+- 📫 How to reach me, on Twitter @[eyayaw](https://twitter.com/eyayaw).
 
 <!---
 eyayaw/eyayaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

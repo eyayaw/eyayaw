@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @[eyayaw](https://github.com/eyayaw/eyayaw/)
+- 👋 Hi, I’m @[eyayaw](https://github.com/eyayaw/)
 - 👀 I’m interested in R and Python.
 - 🌱 I’m currently learning webscraping with Python.
 - 📫 How to reach me, on Twitter @[eyayaw](https://twitter.com/eyayaw).

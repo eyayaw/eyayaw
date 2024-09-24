@@ -1,7 +1,9 @@
 Hi there 👋, I'm Eyayaw.
--  I love R and Python (a little earlier than Posit did 😂).
--  Interested in data and related fields.
--  Currently open for work (preferably as a **casual data scientist**).
+
+> __*I am looking for a job, preferably in data science, focusing on causal inference.*__
+
+-  I'm an R and Python enthusiast.
+-  Interested in data and all that.
 -  You can find me at <https://mastodon.social/@eyayaw> or <https://twitter.com/eyayaw>.
 
 *I did my Ph.D. in Urban Economics at [Ruhr Graduate School of Economics](https://www.rgs-econ.org/).*

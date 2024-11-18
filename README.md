@@ -1,10 +1,10 @@
 Hi there 👋, I'm Eyayaw.
 
-> __*I am looking for a job, preferably in data science, focusing on causal inference.*__
+> _I am looking for a job, preferably in **housing market research** or **data science** with causal inference._
 
--  I'm an R and Python enthusiast.
+-  I'm an `R` and `Python` enthusiast.
 -  Interested in data and all that.
--  You can find me at <https://mastodon.social/@eyayaw> or <https://twitter.com/eyayaw>.
+-  You can find me at [🦋@eyayaw](https://bsky.app/profile/eyayaw.bsky.social) or [🐘@eyayaw](https://mastodon.social/@eyayaw).
 
 *I did my Ph.D. in Urban Economics at [Ruhr Graduate School of Economics](https://www.rgs-econ.org/).*
 

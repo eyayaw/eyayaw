@@ -1,6 +1,6 @@
 Hi there 👋, I'm Eyayaw.
 
-> _I am looking for a job, preferably in **housing market research** or **data science** with causal inference._
+<!-- > _I am looking for a job, preferably in **housing market research** or **data science** with causal inference._ --->
 
 -  I'm an `R` and `Python` enthusiast.
 -  Interested in data and all that.
